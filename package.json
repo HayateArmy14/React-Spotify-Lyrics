@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.8.3",
     "axios": "^0.21.1",
     "bootstrap": "^5.0.2",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.2",
@@ -16,7 +17,7 @@
     "spotify-web-api-node": "^5.0.2",
     "web-vitals": "^1.1.2"
   },
-  "homepage":"https://HayateArmy14.github.io/React-Spotify-Lyrics",
+  "homepage": "https://HayateArmy14.github.io/React-Spotify-Lyrics",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
