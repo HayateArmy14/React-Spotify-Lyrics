@@ -16,7 +16,7 @@
     "spotify-web-api-node": "^5.0.2",
     "web-vitals": "^1.1.2"
   },
-  "homepage":"https://HayateArmy14.github.io/Spotify-React-Lyrics",
+  "homepage":"https://HayateArmy14.github.io/React-Spotify-Lyrics",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
